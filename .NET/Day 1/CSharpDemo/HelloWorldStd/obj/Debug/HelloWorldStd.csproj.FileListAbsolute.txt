@@ -1,0 +1,8 @@
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\HelloWorldStd\bin\Debug\HelloWorldStd.exe.config
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\HelloWorldStd\bin\Debug\HelloWorldStd.exe
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\HelloWorldStd\bin\Debug\HelloWorldStd.pdb
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\HelloWorldStd\obj\Debug\HelloWorldStd.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\HelloWorldStd\obj\Debug\HelloWorldStd.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\HelloWorldStd\obj\Debug\HelloWorldStd.exe
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\HelloWorldStd\obj\Debug\HelloWorldStd.pdb
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\HelloWorldStd\obj\Debug\HelloWorldStd.exe.config

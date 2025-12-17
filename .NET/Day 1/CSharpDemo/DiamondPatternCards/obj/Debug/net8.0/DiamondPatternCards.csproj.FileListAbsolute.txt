@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\DiamondPatternCards\bin\Debug\net8.0\DiamondPatternCards.exe
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\DiamondPatternCards\bin\Debug\net8.0\DiamondPatternCards.deps.json
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\DiamondPatternCards\bin\Debug\net8.0\DiamondPatternCards.runtimeconfig.json
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\DiamondPatternCards\bin\Debug\net8.0\DiamondPatternCards.dll
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\DiamondPatternCards\bin\Debug\net8.0\DiamondPatternCards.pdb
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\DiamondPatternCards\obj\Debug\net8.0\DiamondPatternCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\DiamondPatternCards\obj\Debug\net8.0\DiamondPatternCards.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\DiamondPatternCards\obj\Debug\net8.0\DiamondPatternCards.AssemblyInfo.cs
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\DiamondPatternCards\obj\Debug\net8.0\DiamondPatternCards.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\DiamondPatternCards\obj\Debug\net8.0\DiamondPatternCards.sourcelink.json
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\DiamondPatternCards\obj\Debug\net8.0\DiamondPatternCards.dll
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\DiamondPatternCards\obj\Debug\net8.0\refint\DiamondPatternCards.dll
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\DiamondPatternCards\obj\Debug\net8.0\DiamondPatternCards.pdb
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\DiamondPatternCards\obj\Debug\net8.0\DiamondPatternCards.genruntimeconfig.cache
+C:\Users\IET\Desktop\2011\.Net\Project Files\CSharpDemo\DiamondPatternCards\obj\Debug\net8.0\ref\DiamondPatternCards.dll
